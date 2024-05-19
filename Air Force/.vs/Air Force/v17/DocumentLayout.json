@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\githubCode\\aDREAMer\\Air Force\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F948DD-7226-4873-81DF-3261584585ED}|Air Force\\Air Force.vcxproj|E:\\githubCode\\aDREAMer\\Air Force\\Air Force\\Air Force.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F948DD-7226-4873-81DF-3261584585ED}|Air Force\\Air Force.vcxproj|solutionrelative:Air Force\\Air Force.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Air Force.cpp",
+              "DocumentMoniker": "E:\\githubCode\\aDREAMer\\Air Force\\Air Force\\Air Force.cpp",
+              "RelativeDocumentMoniker": "Air Force\\Air Force.cpp",
+              "ToolTip": "E:\\githubCode\\aDREAMer\\Air Force\\Air Force\\Air Force.cpp",
+              "RelativeToolTip": "Air Force\\Air Force.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAqwJcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T17:23:36.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
